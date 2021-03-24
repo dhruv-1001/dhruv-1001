@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am Dhruv Baliyan, CS Undergraduate at JSSATEN. <br> I am a competitive programmer, currently focused on developing Android Applications.<br>
+# I am Dhruv Baliyan, CS Undergraduate at JSSATEN. <br> I am a competitive programmer, currently focused on developing Android Applications.<br>
 
 - Andriod Developer/ Programmer at DSC JSS
 - For me app development is about creating an awesome user experience
