@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### I am Dhruv Baliyan, CS Undergraduate at JSSATEN. <br> I am a competitive programmer, currently focused on developing Android Applications.<br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-1001&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-1001" /> </p>
 - Andriod Developer/ Programmer at DSC JSS
 - For me app development is about creating an awesome user experience
 - Passionate about building great apps
