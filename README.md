@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am Dhruv, CSE Undergraduate. <br> Android Developer, currently focused on Bitcoin & Rust.<br>
+### I'm Dhruv, CSE Undergrad <br> Android Developer, currently focused on Bitcoin & Rust.<br>
 - Trying to understand how the digital world works
 - Very curious about low level stuff & networking
 
