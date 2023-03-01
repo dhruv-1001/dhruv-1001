@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hello there 👋
 
 ### I'm Dhruv, CSE Undergrad <br> Android Developer, currently focused on Bitcoin & Rust.<br>
 - Trying to understand how the digital world works
 - Very curious about low level stuff & networking
+
 
 ### How to connect?
 <a href="https://twitter.com/baliyan_dhruv" target="_blank">
