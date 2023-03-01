@@ -2,7 +2,7 @@
 
 ### I am Dhruv, CSE Undergraduate. <br> Android Developer, currently focused on Bitcoin & Rust.<br>
 - Trying to understand how the digital world works
-- Loves solving problems through programming
+- Very curious about low level stuff & networking
 
 ### How to connect?
 <a href="https://twitter.com/baliyan_dhruv" target="_blank">
